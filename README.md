@@ -1,4 +1,5 @@
 Palindrome Checker App
+welcome to usecase2
 Objective
 
 A simple Java application to check whether a given string or number is a palindrome.
